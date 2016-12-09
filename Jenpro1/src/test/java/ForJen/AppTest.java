@@ -1,4 +1,4 @@
-package lakshmicom;
+package ForJen;
 
 import junit.framework.Test;
 import junit.framework.TestCase;
